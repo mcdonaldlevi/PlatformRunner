@@ -1,0 +1,2 @@
+-Disable other fire button when carried
+-attached the material onto the platform, then change the spawner to make the level
